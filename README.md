@@ -37,9 +37,13 @@ Here are some of the projects I've been working on:
 - 🛰️ **[sgp4-service](https://github.com/Psnastudent/sgp4-service)**: A Python service implementing SGP4 orbit propagation for satellite tracking.
 - 🌐 **[3dpportfolio](https://github.com/Psnastudent/3dpportfolio) & [portfolio](https://github.com/Psnastudent/portfolio)**: My personal portfolio websites showcasing my work in 3D interactions and web development.
   
-- ---
+---
 
 <div align="center">
-  <h3>🧊 My 3D Contribution Graph</h3>
-  <img src="https://raw.githubusercontent.com/Psnastudent/Psnastudent/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contribution Graph" />
+  <h3>🐍 My GitHub Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Psnastudent/Psnastudent/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Psnastudent/Psnastudent/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Psnastudent/Psnastudent/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
